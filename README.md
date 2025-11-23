@@ -51,13 +51,12 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Stats : </b>
 <br>
 
-![](https://github-readme-stats.vercel.app/api?username=codewithsougata&theme=neon&hide_border=false&include_all_commits=false&count_private=false)   ![](https://nirzak-streak-stats.vercel.app/?user=codewithsougata&theme=neon&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=codewithsougata&theme=neon&hide_border=false&include_all_commits=false&count_private=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithsougata&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br/>
 
 <div align="center">
 	
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithsougata&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://nirzak-streak-stats.vercel.app/?user=codewithsougata&theme=neon&hide_border=false)
 </div>
-
 
 ### 🔝 Top Contributed Repo :
 ---
