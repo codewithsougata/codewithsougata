@@ -32,7 +32,7 @@
 - :computer: I am a `MERN Stack Develope`r and passionate about building `full-stack projects`.
 - :student: I’m currently learning `Computer Applications` and `Software Development`.
 - :nerd_face:Always curious and exploring new technologies to improve my skills.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME]().
+- :thinking: I’m currently open for a new `job opportunity`, this is [My linkedin profile](https://www.linkedin.com/in/sougata-manna-9932s/).
 <br>
 <!-- Snake Game Repo View -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
