@@ -50,65 +50,32 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Stats : </b>
 <br>
-
 <div align="center">
 
-  <!-- 🧠 Profile Stats Card -->
   <div style="
-    max-width: 900px;
-    padding: 20px;
-    border-radius: 16px;
-    border: 1px solid #00ffc6;
-    box-shadow: 0 0 18px rgba(0, 255, 198, 0.3);
-    background: radial-gradient(circle at top, #051937, #000000);
-    margin: 20px auto;
+      border: 2px solid #00eaff;
+      border-radius: 18px;
+      padding: 20px;
+      background: #0a0f1f;
+      box-shadow: 0 0 15px rgba(0, 234, 255, 0.4);
+      max-width: 850px;
   ">
-
-  <h2 style="
-    color: #00ffc6;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-    font-weight: 700;
-    letter-spacing: 1px;
-    margin-bottom: 10px;
-  ">
-    ⚡ GitHub Activity Overview
-  </h2>
-
-  <p style="
-    color: #cfd8dc;
-    font-size: 14px;
-    margin-bottom: 20px;
-  ">
-    Here's a quick snapshot of my coding activity and language usage on GitHub.
-  </p>
-
-  <!-- Top Row: Main Stats + Streak -->
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-
-   <img 
-      src="https://github-readme-stats.vercel.app/api?username=codewithsougata&theme=neon&hide_border=false&include_all_commits=false&count_private=false" 
-      alt="GitHub Stats"
-      style="max-width: 100%;"
-    />
-
- <img 
-      src="https://nirzak-streak-stats.vercel.app/?user=codewithsougata&theme=neon&hide_border=false" 
-      alt="GitHub Streak"
-      style="max-width: 100%;"
-    />
+  <!-- Row 1 -->
+  <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:10px; margin-top:10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=codewithsougata&theme=neon&hide_border=true&include_all_commits=false&count_private=false" style="border-radius:10px;"/>
+    
+ <img src="https://nirzak-streak-stats.vercel.app/?user=codewithsougata&theme=neon&hide_border=true" style="border-radius:10px;"/>
   </div>
 
-  <!-- Bottom Row: Languages -->
-  <div style="margin-top: 15px;">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithsougata&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact" 
-      alt="Top Languages"
-      style="max-width: 100%;"
-    />
+  <!-- Row 2 -->
+  <div style="margin-top:15px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithsougata&theme=neon&hide_border=true&include_all_commits=false&count_private=false&layout=compact" style="border-radius:10px;"/>
   </div>
 
   </div>
+
 </div>
+
 
 
 ### 🔝 Top Contributed Repo :
