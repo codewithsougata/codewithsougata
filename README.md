@@ -52,14 +52,64 @@
 <br>
 
 <div align="center">
-	
-![](https://github-readme-stats.vercel.app/api?username=codewithsougata&theme=neon&hide_border=false&include_all_commits=false&count_private=false) 
 
-![](https://nirzak-streak-stats.vercel.app/?user=codewithsougata&theme=neon&hide_border=false)
- <br/>
-	
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithsougata&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  <!-- 🧠 Profile Stats Card -->
+  <div style="
+    max-width: 900px;
+    padding: 20px;
+    border-radius: 16px;
+    border: 1px solid #00ffc6;
+    box-shadow: 0 0 18px rgba(0, 255, 198, 0.3);
+    background: radial-gradient(circle at top, #051937, #000000);
+    margin: 20px auto;
+  ">
+
+  <h2 style="
+    color: #00ffc6;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    font-weight: 700;
+    letter-spacing: 1px;
+    margin-bottom: 10px;
+  ">
+    ⚡ GitHub Activity Overview
+  </h2>
+
+  <p style="
+    color: #cfd8dc;
+    font-size: 14px;
+    margin-bottom: 20px;
+  ">
+    Here's a quick snapshot of my coding activity and language usage on GitHub.
+  </p>
+
+  <!-- Top Row: Main Stats + Streak -->
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+
+   <img 
+      src="https://github-readme-stats.vercel.app/api?username=codewithsougata&theme=neon&hide_border=false&include_all_commits=false&count_private=false" 
+      alt="GitHub Stats"
+      style="max-width: 100%;"
+    />
+
+ <img 
+      src="https://nirzak-streak-stats.vercel.app/?user=codewithsougata&theme=neon&hide_border=false" 
+      alt="GitHub Streak"
+      style="max-width: 100%;"
+    />
+  </div>
+
+  <!-- Bottom Row: Languages -->
+  <div style="margin-top: 15px;">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithsougata&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact" 
+      alt="Top Languages"
+      style="max-width: 100%;"
+    />
+  </div>
+
+  </div>
 </div>
+
 
 ### 🔝 Top Contributed Repo :
 ---
