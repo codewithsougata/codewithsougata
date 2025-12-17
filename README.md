@@ -29,7 +29,7 @@
 
 - :school: I am a BCA student (3rd year) at [Brainware University](https://www.brainwareuniversity.ac.in/).
 - :technologist: I love solving `real-world problems` using `software solutions`.
-- :computer: I am a `MERN Stack Develope`r and passionate about building `full-stack projects`.
+- :computer: I am a `MERN Stack Developer` and passionate about building `full-stack projects`.
 - :student: I’m currently learning `Computer Applications` and `Software Development`.
 - :nerd_face:Always curious and exploring new technologies to improve my skills.
 - :thinking: I’m currently open for a new `job opportunity`, this is [My linkedin profile](https://www.linkedin.com/in/sougata-manna-9932s/).
