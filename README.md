@@ -94,6 +94,21 @@
 	
 </div>
 
+<div align="center">
+    <!-- Header Capsule -->
+    <img 
+      src="https://capsule-render.vercel.app/api?type=wave&height=200&color=0:9b5de5,100:f15bb5&text=Profile%20Visits&fontAlign=50&fontAlignY=40&fontSize=42&fontColor=ffffff&animation=fadeIn"
+    />
+    <!-- Subtitle (Elegant Line) -->
+    <p style="margin-top:-10px; font-size:14px; color:#bdbdbd;">
+    Smooth • Minimal • Aesthetic Counter
+    </p>
+    <!-- Visit Counter Badge -->
+    <img 
+      src="https://komarev.com/ghpvc/?username=codewithsougata&style=for-the-badge&color=9b5de5"
+    />
+</div>
+
 
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
